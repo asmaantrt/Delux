@@ -43,7 +43,7 @@
               <h4 class="media-heading">
                 Contact Us
               </h4>
-              +90 531 494 30 33
+              +90 0000 000 00 00
             </div>
           </div>
         </div>
